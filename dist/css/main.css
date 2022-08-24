@@ -27,6 +27,10 @@ body {
 p {
   font-size: 14px;
 }
+.t7t {
+  position: absolute;
+  bottom: 0;
+}
 
 main {
   border-radius: 8px;
